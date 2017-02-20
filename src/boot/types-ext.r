@@ -14,7 +14,7 @@ REBOL [
 	}
 ]
 
-end			0	0
+end		0	0
 unset		*	null
 none		*	null
 handle		*	ptr
@@ -40,8 +40,8 @@ issue		*	sym
 string		24	ser
 file		*	ser
 email		*	ser
-url			*	ser
-tag			*	ser
+url		*	ser
+tag		*	ser
 
 block		32	ser
 paren		*	ser
@@ -55,7 +55,7 @@ bitset		*	ser
 vector		*	ser
 image		*	image
 
-gob			47	ser
+gob		47	ser
 
 object		48	ptr
 module		*	ptr
